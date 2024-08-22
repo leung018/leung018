@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **Focus on TDD:** Prefer using Test-Driven Development (TDD) to write code with tests.
 - **Continuous Learner:** Always exploring new technologies and methodologies to enhance software quality and effectiveness.
 
+🔭 **I am currently actively looking for job opportunies. If you believe that I align with the culture of your company, please don't hesitate to reach out to me through my [LinkedIn](https://www.linkedin.com/in/leung-cheng/).**
+
 ## 📚 Reading List
 
 Here are some of the books/articles I've learned from:
