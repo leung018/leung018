@@ -14,12 +14,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 Here are some of the books/articles I've learned from:
 
-- [Clean Code A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
+- [The Art of Agile Development](https://www.jamesshore.com/v2/books/aoad2) by James Shore
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201) by John Ousterhout
+- [Clean Code A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppmann
 - [Software Engineering at Google](https://abseil.io/resources/swe-book) by Titus Winters, Tom Manshreck and Hyrum Wright
-- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks) by Jame Shore
+- [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks) by James Shore
 
 
 <!--
