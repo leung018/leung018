@@ -1,7 +1,6 @@
 ## Hello, I'm Leung 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in **Test-Driven Development (TDD)** and continuously enhancing my skills through reading and developing some personal projects.
-
+Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in good engineering practices such as Test-Driven Development (TDD). I’m always looking to enhance my skills by reading, learning, and working on personal projects.
 ## 📘 About Me
 - **Dedicated to Good Practices:** Committed to mastering and applying good software engineering practices.
 - **Advocate for Automated Testing:** Believer in the power and necessity of automated testing for high-quality software.
